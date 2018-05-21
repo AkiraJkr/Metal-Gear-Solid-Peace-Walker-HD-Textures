@@ -16,3 +16,5 @@ In the end, it should look like this: **PPSSPPDir/memstick/PSP/TEXTURES/ULUS1050
 It should automatically work if you have not disabled texture replacement.
 
 Please delete the folder before updating or it may cause errors.
+
+All credits reserved to Konami & Kojima Productions.
