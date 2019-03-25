@@ -4,6 +4,8 @@ This Texture Pack was made for the US version of Peace Walker. There are no guar
 
 This is a project that ANYONE can contribute to, simply contact my Discord! AkiraJkr#6764
 
+Original Forum thread: https://forums.ppsspp.org/showthread.php?tid=25060 
+
 ![There Should Be a Fancy Image Here](https://i.imgur.com/ZHzzqeI.png)
 
 To install, download as ZIP, then go to the TEXTURES Folder found in:
