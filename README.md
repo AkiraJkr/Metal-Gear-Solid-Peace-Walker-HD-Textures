@@ -13,7 +13,7 @@ PPSSPPDir/memstick/PSP
 
 If it doesn't exist, create it, along with a ULUS10509 folder, and then drag'n'drop all contents from the ZIP to ULUS10509.
 
-In the end, it should look like this: **PPSSPPDir/memstick/PSP/TEXTURES/ULUS10509/AllOfThisGitContents**
+In the end, it should look like this: **PPSSPPDir/memstick/PSP/TEXTURES/ULUS10509/MasterFolderFiles**
 
 It should automatically work if you have not disabled texture replacement.
 
