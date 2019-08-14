@@ -8,12 +8,14 @@ Original Forum thread: https://forums.ppsspp.org/showthread.php?tid=25060
 
 ![There Should Be a Fancy Image Here](https://i.imgur.com/ZHzzqeI.png)
 
-To install, download as ZIP, then go to the TEXTURES Folder found in:
-PPSSPPDir/memstick/PSP
+To install, download as a zip and drag'n'drop the zip at PPSSPP's main menu. It's that easy. Just make sure you launched the game ONCE.
 
-If it doesn't exist, create it, along with a ULUS10509(ULES01372 if it's EU) folder, and then drag'n'drop all contents from the ZIP to ULUS10509.
+~~To install, download as ZIP, then go to the TEXTURES Folder found in:
+PPSSPPDir/memstick/PSP~~
 
-In the end, it should look like this: **PPSSPPDir/memstick/PSP/TEXTURES/ULUS10509/MasterFolderFiles**
+~~If it doesn't exist, create it, along with a ULUS10509(ULES01372 if it's EU) folder, and then drag'n'drop all contents from the ZIP to ULUS10509.~~
+
+~~In the end, it should look like this: PPSSPPDir/memstick/PSP/TEXTURES/ULUS10509/MasterFolderFiles~~
 
 It should automatically work if you have not disabled texture replacement.
 
