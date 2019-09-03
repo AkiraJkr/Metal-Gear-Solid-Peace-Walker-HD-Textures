@@ -9,6 +9,7 @@ Original Forum thread: https://forums.ppsspp.org/showthread.php?tid=25060
 ![There Should Be a Fancy Image Here](https://i.imgur.com/ZHzzqeI.png)
 
 To install, download as a zip and drag'n'drop the zip at PPSSPP's main menu. It's that easy. Just make sure you launched the game ONCE.
+<br>PS: You need PPSSPP version v1.8.0-442 or higher to do this.
 
 ~~To install, download as ZIP, then go to the TEXTURES Folder found in:
 PPSSPPDir/memstick/PSP~~
